@@ -42,7 +42,7 @@
 		file_put_contents($img_name, file_get_contents($s)); 
 	}
 	}
-	
+
 	
 ?>
   <center><font face="Ubuntu" size="5" color="white"><b>HentaiFox Grabber by Sc0<b/></font></center>
