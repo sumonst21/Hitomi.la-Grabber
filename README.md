@@ -1,1 +1,1 @@
-# Hitomi.la-Grabber
+# Hitomi.la-Grabber [BETA]
