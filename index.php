@@ -58,7 +58,6 @@ echo ">";
 }
 
 
-
 ?>
 <p>
 <center><font face="Ubuntu" size="5" color="green"><b>[!] Hitomi.la Stealer [!]<b/></font></center>
