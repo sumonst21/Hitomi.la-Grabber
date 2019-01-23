@@ -7,8 +7,6 @@
 <style>
 
 .subbtn {background:#b70505;color:white;border: 1px solid #000; padding:6px 6px 6px 6px;}
-
-
 .bordergaya{
 			background:black;
 			color:white;
